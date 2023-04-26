@@ -1,0 +1,49 @@
+La fuente fnt_pausa se ha convertido a la familia de fuentes Forte (Regular)
+Se ha realizado una copia de seguridad de la textura de la fuente de GameMaker Studio 1 en ${project_dir}\fonts\fnt_pausa\fnt_pausa.gms1.png
+Falta el grupo de audio para el sonido: "snd_coin" - pasando el grupo de audio a predeterminado
+Falta el grupo de audio para el sonido: "snd_muerte" - pasando el grupo de audio a predeterminado
+Falta el grupo de audio para el sonido: "snd_musica" - pasando el grupo de audio a predeterminado
+Falta el grupo de audio para el sonido: "snd_victoria" - pasando el grupo de audio a predeterminado
+Falta el grupo de audio para el sonido: "snd_jefe_final" - pasando el grupo de audio a predeterminado
+Falta el grupo de audio para el sonido: "snd_risa" - pasando el grupo de audio a predeterminado
+Falta el grupo de audio para el sonido: "snd_muerte_jefe" - pasando el grupo de audio a predeterminado
+Velocidad del juego fijada en 30
+Añadido el script de compatibilidad "action/action_another_room.gml"
+Añadido el script de compatibilidad "action/action_change_object.gml"
+Añadido el script de compatibilidad "action/action_color.gml"
+Añadido el script de compatibilidad "action/action_create_object.gml"
+Añadido el script de compatibilidad "action/action_draw_health.gml"
+Añadido el script de compatibilidad "action/action_draw_score.gml"
+Añadido el script de compatibilidad "action/action_draw_text.gml"
+Añadido el script de compatibilidad "action/action_draw_variable.gml"
+Añadido el script de compatibilidad "action/action_end_game.gml"
+Añadido el script de compatibilidad "action/action_end_sound.gml"
+Añadido el script de compatibilidad "action/action_font.gml"
+Añadido el script de compatibilidad "action/action_if.gml"
+Añadido el script de compatibilidad "action/action_if_empty.gml"
+Añadido el script de compatibilidad "action/action_if_health.gml"
+Añadido el script de compatibilidad "action/action_if_question.gml"
+Añadido el script de compatibilidad "action/action_if_variable.gml"
+Añadido el script de compatibilidad "action/action_kill_object.gml"
+Añadido el script de compatibilidad "action/action_move.gml"
+Añadido el script de compatibilidad "action/action_move_contact.gml"
+Añadido el script de compatibilidad "action/action_move_to.gml"
+Añadido el script de compatibilidad "action/action_path.gml"
+Añadido el script de compatibilidad "action/action_path_end.gml"
+Añadido el script de compatibilidad "action/action_restart_game.gml"
+Añadido el script de compatibilidad "action/action_set_alarm.gml"
+Añadido el script de compatibilidad "action/action_set_gravity.gml"
+Añadido el script de compatibilidad "action/action_set_health.gml"
+Añadido el script de compatibilidad "action/action_set_relative.gml"
+Añadido el script de compatibilidad "action/action_set_score.gml"
+Añadido el script de compatibilidad "action/action_set_vspeed.gml"
+Añadido el script de compatibilidad "action/action_sound.gml"
+Añadido el script de compatibilidad "action/action_sprite_set.gml"
+Añadido el script de compatibilidad "action/action_timeline_set.gml"
+Añadido el script de compatibilidad "action/action_timeline_start.gml"
+Añadido el script de compatibilidad "action/action_timeline_stop.gml"
+Añadido el script de compatibilidad "instance/instance_create.gml"
+Añadido el script de compatibilidad "object/object_get_depth.gml"
+Añadido el script de compatibilidad "action/__init_action.gml"
+Añadido el script de compatibilidad "__init_global.gml"
+Añadido el script de compatibilidad "__global_object_depths.gml"
